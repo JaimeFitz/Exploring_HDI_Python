@@ -12,3 +12,11 @@ Helpful terms, as defined by the UNDP:
 **Old-age dependency ratio**: Ratio of the population ages 65 and older to the population ages 15–64, expressed as the number of dependants per 100 people of working age (ages 15–64).
 
 **Total fertility rate**: Number of children who would be born to a woman if she were to live to the end of her child-bearing years and bear children at each age in accordance with prevailing age-specific fertility rates.
+
+In my analysis of this table, I will seek to answer the following questions:
+   1. Overall, have fertility rates increased or decreased between the 2005-2010 group and the 2015-2020 group?
+   2. Are there any factors that are strongly correlated with a higher young-age dependency ratio?
+   3. Are there any factors that are strongly correlated with a higher old-age dependency ratio?
+   4. Which countries have the highest 2019 population growth in the 65+ age group?
+   5. Which countries have the highest 2019 population growth in the <5 age group?
+  
